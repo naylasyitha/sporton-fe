@@ -6,7 +6,7 @@ const HeroSection = () => {
     return(
     <section 
         id="hero-section" 
-        className="container mx-auto h-screen flex"
+        className="container mx-auto h-screen flex mt-10"
     >
         <div className="relative self-center">
             <Image
